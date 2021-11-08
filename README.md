@@ -35,9 +35,9 @@ This repository hosts summary statistics and mapping schemes used for the Global
 ## 📊 Summary statistics
 
 Summary (aggregated) statistics are available within this repository at various levels.
- - [Subnational](https://github.com/nicolepaul/africa-exposure-model/blob/main/exposure_statistics/SUMMARY_SUBNATIONAL_2020-2050.xlsx)
- - [National](https://github.com/nicolepaul/africa-exposure-model/blob/main/exposure_statistics/SUMMARY_NATIONAL_2020-2050.xlsx)
- - [Regional](https://github.com/nicolepaul/africa-exposure-model/blob/main/exposure_statistics/SUMMARY_REGION_2020-2050.xlsx)
+ - [Subnational](https://github.com/nicolepaul/africa-exposure-model/blob/main/summary_statistics/SUMMARY_SUBNATIONAL_2020-2050.xlsx)
+ - [National](https://github.com/nicolepaul/africa-exposure-model/blob/main/summary_statistics/SUMMARY_NATIONAL_2020-2050.xlsx)
+ - [Regional](https://github.com/nicolepaul/africa-exposure-model/blob/main/summary_statistics/SUMMARY_REGION_2020-2050.xlsx)
 
 
 The disaggregated exposure files are only available via the [GEM Products](https://www.globalquakemodel.org/products) page.
