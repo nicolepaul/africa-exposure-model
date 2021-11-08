@@ -18,7 +18,7 @@ This repository hosts summary statistics and mapping schemes used for the Global
 
  - **[MODEL VERSIONS](https://github.com/nicolepaul/africa-exposure-data#-model-versions)**
  - **[SUMMARY STATISTICS](https://github.com/nicolepaul/africa-exposure-data#-summary-statistics)**
- - **[PUBLICATIONS](https://github.com/nicolepaul/africa-exposure-datay#-publications)**
+ - **[PUBLICATIONS](https://github.com/nicolepaul/africa-exposure-data#-publications)**
  - **[CONTRIBUTORS](https://github.com/nicolepaul/africa-exposure-data#-contributors)**
  - **[COUNTRY LIST](https://github.com/nicolepaul/africa-exposure-data#-country-list)**
  - **[FREQUENTLY ASKED QUESTIONS](https://github.com/nicolepaul/africa-exposure-data#-frequently-asked-questions)**
