@@ -16,12 +16,12 @@ This repository hosts summary statistics and mapping schemes used for the Global
 
 ## 🔎 Quick Links
 
- - **[MODEL VERSIONS](https://github.com/nicolepaul/africa-exposure-data#-model-versions)**
- - **[SUMMARY STATISTICS](https://github.com/nicolepaul/africa-exposure-data#-summary-statistics)**
- - **[PUBLICATIONS](https://github.com/nicolepaul/africa-exposure-data#-publications)**
- - **[CONTRIBUTORS](https://github.com/nicolepaul/africa-exposure-data#-contributors)**
- - **[COUNTRY LIST](https://github.com/nicolepaul/africa-exposure-data#-country-list)**
- - **[FREQUENTLY ASKED QUESTIONS](https://github.com/nicolepaul/africa-exposure-data#-frequently-asked-questions)**
+ - **[MODEL VERSIONS](https://github.com/nicolepaul/africa-exposure-model#-model-versions)**
+ - **[SUMMARY STATISTICS](https://github.com/nicolepaul/africa-exposure-model#-summary-statistics)**
+ - **[PUBLICATIONS](https://github.com/nicolepaul/africa-exposure-model#-publications)**
+ - **[CONTRIBUTORS](https://github.com/nicolepaul/africa-exposure-model#-contributors)**
+ - **[COUNTRY LIST](https://github.com/nicolepaul/africa-exposure-model#-country-list)**
+ - **[FREQUENTLY ASKED QUESTIONS](https://github.com/nicolepaul/africa-exposure-model#-frequently-asked-questions)**
 
 <br />
 
@@ -35,9 +35,9 @@ This repository hosts summary statistics and mapping schemes used for the Global
 ## 📊 Summary statistics
 
 Summary (aggregated) statistics are available within this repository at various levels.
- - [Subnational](https://github.com/nicolepaul/africa-exposure-data/blob/main/exposure_statistics/SUMMARY_SUBNATIONAL_2020-2050.xlsx)
- - [National](https://github.com/nicolepaul/africa-exposure-data/blob/main/exposure_statistics/SUMMARY_NATIONAL_2020-2050.xlsx)
- - [Regional](https://github.com/nicolepaul/africa-exposure-data/blob/main/exposure_statistics/SUMMARY_REGION_2020-2050.xlsx)
+ - [Subnational](https://github.com/nicolepaul/africa-exposure-model/blob/main/exposure_statistics/SUMMARY_SUBNATIONAL_2020-2050.xlsx)
+ - [National](https://github.com/nicolepaul/africa-exposure-model/blob/main/exposure_statistics/SUMMARY_NATIONAL_2020-2050.xlsx)
+ - [Regional](https://github.com/nicolepaul/africa-exposure-model/blob/main/exposure_statistics/SUMMARY_REGION_2020-2050.xlsx)
 
 
 The disaggregated exposure files are only available via the [GEM Products](https://www.globalquakemodel.org/products) page.
