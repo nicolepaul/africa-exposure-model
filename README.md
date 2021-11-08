@@ -1,2 +1,91 @@
-# africa-exposure-data
-Mapping schemes and summary statistics for the GEM Africa Exposure Model (2021)
+<div align='center'>
+
+![GEM Foundation](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Global_Earthquake_Model_Logo.png/440px-Global_Earthquake_Model_Logo.png)
+
+</div>
+
+---
+
+# ✨ Overview
+
+This repository hosts summary statistics and mapping schemes used for the Global Earthquake Model (GEM) Foundations's Africa Exposure Model. The disaggregated exposure files are only available via the [GEM Products](https://www.globalquakemodel.org/products) page.
+
+<br />
+
+# 🔎 Quick Links
+
+<div align="center">
+
+**[MODEL VERSIONS](https://github.com/nicolepaul/africa-exposure-data#-model-versions) •
+[SUMMARY STATISTICS](https://github.com/nicolepaul/africa-exposure-data#-summary-statistics) •
+[PUBLICATIONS](https://github.com/nicolepaul/africa-exposure-datay#-publications) •
+[CONTRIBUTORS](https://github.com/nicolepaul/africa-exposure-data#-contributors) •
+[COUNTRY LIST](https://github.com/nicolepaul/africa-exposure-data#-country-list) •
+[FREQUENTLY ASKED QUESTIONS](https://github.com/nicolepaul/africa-exposure-data#-frequently-asked-questions)**
+
+</div>
+
+<br />
+
+
+# 🚀 Model versions
+
+| Version   | Release Notes                                                                                                                                                                                                                                                                             |
+|-----------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| v2021.0.0 | Revision of the Africa Exposure model using a consistent approach across the entire continent, using latest available national and global databases. Exposure is derived at the subnational level, but further disaggregated to a 0.04deg resolution using WorldPop population estimates. |
+
+# 📊 Summary statistics
+
+Summary (aggregated) statistics are available within this repository at various levels.
+ - [Algeria](https://gitlab.openquake.org/risk/wip/dummy/-/blob/main/Summary/Exposure_Country_Algeria.html)
+ - [Mozambique](https://gitlab.openquake.org/risk/wip/dummy/-/blob/main/Summary/Exposure_Country_Mozambique.html)
+ - [Somalia](https://gitlab.openquake.org/risk/wip/dummy/-/blob/main/Summary/Exposure_Country_Somalia.html)
+
+The disaggregated exposure files are only available via the [GEM Products](https://www.globalquakemodel.org/products) page.
+
+# 📚 Publications
+
+A journal publication documenting the development of the Africa Exposure Model is in progress.
+
+# 🌟 Contributors
+
+The authors are grateful for the input from dozens of local and international experts. A list of contributors can be found at [https://www.globalquakemodel.org/risk-model-contributors](https://www.globalquakemodel.org/risk-model-contributors).
+
+# 🌍 Country list
+
+The following countries are covered by this repository:
+
+|                                  |                                  |                                  |
+|----------------------------------|----------------------------------|----------------------------------|
+| Algeria                          | Gabon                            | Niger                            |
+| Angola                           | Gambia                           | Nigeria                          |
+| Benin                            | Ghana                            | Rwanda                           |
+| Botswana                         | Guinea                           | Sao Tome and Principe            |
+| Burkina Faso                     | Guinea Bissau                    | Senegal                          |
+| Burundi                          | Ivory Coast                      | Seychelles                       |
+| Cameroon                         | Kenya                            | Sierra Leone                     |
+| Cape Verde                       | Lesotho                          | Somalia                          |
+| Central African Republic         | Liberia                          | South Africa                     |
+| Chad                             | Libya                            | South Sudan                      |
+| Comoros                          | Madagascar                       | Sudan                            |
+| Congo                            | Malawi                           | Tanzania                         |
+| Democratic Republic of the Congo | Mali                             | Togo                             |
+| Djibouti                         | Mauritania                       | Tunisia                          |
+| Egypt                            | Mauritius                        | Uganda                           |
+| Equatorial Guinea                | Morocco and Western Sahara*      | Zambia                           |
+| Eritrea                          | Mozambique                       | Zimbabwe                         |
+| Ethiopia                         | Namibia                          | Eswatini*                        |
+
+*The exposure files (including the mapping schemes, aggregated results, and disaggregated results) use administrative boundaries from [geoBoundaries v3.0.0](https://www.geoboundaries.org/). Due to this, Western Sahara (ESH) is included within the Morocco files (MAR) and Eswatini (SWZ) is labeled as Swaziland.
+
+# 🤔 Frequently asked questions
+
+## Where can I download the disaggregated exposure files?
+
+The disaggregated exposure files are only available via the [GEM Products](https://www.globalquakemodel.org/products) page.
+
+## Where can I find additional information on the defined building classes?
+
+The building classes defined within this exposure model follow the GEM Taxonomy convention. Please refer to the [GEM Taxonomy Glossary](https://taxonomy.openquake.org/) for additional details on taxonomy substrings.
+
+The building classes defined within this exposure model are mapped to corresponding vulnerability classes, as defined within the Global Vulnerability Model. Additional details regarding the vulnerability building classes can be found [here](https://gitlab.openquake.org/risk/global_risk_model/Vulnerability/-/blob/23eb2d14027d6eb09a511041c30e46e4442a6a38/whats-new.md).
