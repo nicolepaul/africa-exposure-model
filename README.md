@@ -1,8 +1,12 @@
 <div align='center'>
 
+![GEM Foundation](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Global_Earthquake_Model_Logo.png/440px-Global_Earthquake_Model_Logo.png)
+
+---
+
+
 # Africa Exposure Model
 
-![GEM Foundation](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Global_Earthquake_Model_Logo.png/440px-Global_Earthquake_Model_Logo.png)
 
 </div>
 
