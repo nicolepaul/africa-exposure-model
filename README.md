@@ -10,7 +10,7 @@
 
 ## ✨ Overview
 
-This repository hosts summary statistics and mapping schemes used for the Global Earthquake Model (GEM) Foundations's Africa Exposure Model. The disaggregated exposure files are only available via the [GEM Products](https://www.globalquakemodel.org/products) page.
+This repository hosts summary statistics and mapping schemes used for the Global Earthquake Model (GEM) Foundations's Africa Exposure Model. The disaggregated exposure files are only available via the [GEM Products](https://www.globalquakemodel.org/product/africa-exposure-model) page.
 
 <br />
 
@@ -30,7 +30,7 @@ This repository hosts summary statistics and mapping schemes used for the Global
 
 | Version   | Release Notes                                                                                                                                                                                                                                                                             |
 |-----------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| v2021.0.0 | Revision of the Africa Exposure model using a consistent approach across the entire continent, using latest available national and global databases. Exposure is derived at the subnational level, but further disaggregated to a 0.04deg resolution using WorldPop population estimates. |
+| v2022.0.0 | Revision of the Africa Exposure model using a consistent approach across the entire continent, using latest available national and global databases. Exposure is derived at the subnational level, but further disaggregated to a 0.04deg resolution using WorldPop population estimates. |
 
 ## 📊 Summary statistics
 
@@ -44,7 +44,9 @@ The disaggregated exposure files are only available via the [GEM Products](https
 
 ## 📚 Publications
 
-A journal publication documenting the development of the Africa Exposure Model is in progress.
+Please cite the work as follows:
+
+Paul, Nicole, Vitor Silva, and Desmond Amo-Odurom. (2022). "Development of a uniform exposure model for the African continent for use in disaster risk assessment." *International Journal of Disaster Risk Reduction*. DOI: [https://doi.org/10.1016/j.ijdrr.2022.102823](https://doi.org/10.1016/j.ijdrr.2022.102823)
 
 ## 🌟 Contributors
 
