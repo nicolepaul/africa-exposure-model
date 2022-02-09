@@ -46,7 +46,7 @@ The disaggregated exposure files are only available via the [GEM Products](https
 
 Please cite the work as follows:
 
-Paul, Nicole, Vitor Silva, and Desmond Amo-Odurom. (2022). "Development of a uniform exposure model for the African continent for use in disaster risk assessment." *International Journal of Disaster Risk Reduction*. DOI: [https://doi.org/10.1016/j.ijdrr.2022.102823](https://doi.org/10.1016/j.ijdrr.2022.102823)
+Paul, Nicole, Vitor Silva, and Desmond Amo-Oduro. (2022). "Development of a uniform exposure model for the African continent for use in disaster risk assessment." *International Journal of Disaster Risk Reduction*. DOI: [https://doi.org/10.1016/j.ijdrr.2022.102823](https://doi.org/10.1016/j.ijdrr.2022.102823)
 
 ## 🌟 Contributors
 
